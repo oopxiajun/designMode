@@ -1,8 +1,33 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\创建型\AbstractFactory_抽象工厂模式\AbstractFactory_抽象工厂模式.csproj" />
+    <ProjectReference Include="..\创建型\Builder_建造者模式\Builder_建造者模式.csproj" />
+    <ProjectReference Include="..\创建型\Factory_工厂模式\Factory_工厂模式.csproj" />
+    <ProjectReference Include="..\创建型\Prototype_原型模式\Prototype_原型模式.csproj" />
+    <ProjectReference Include="..\创建型\Singleton_单例模式\Singleton_单例模式.csproj" />
+    <ProjectReference Include="..\结构型\Adapter_适配器模式\Adapter_适配器模式.csproj" />
+    <ProjectReference Include="..\结构型\Bridge_桥接模式\Bridge_桥接模式.csproj" />
+    <ProjectReference Include="..\结构型\Composite_组合模式\Composite_组合模式.csproj" />
+    <ProjectReference Include="..\结构型\Decorator_装饰模式\Decorator_装饰模式.csproj" />
+    <ProjectReference Include="..\结构型\Facade_外观模式\Facade_外观模式.csproj" />
+    <ProjectReference Include="..\结构型\Flyweight_享元模式\Flyweight_享元模式.csproj" />
+    <ProjectReference Include="..\结构型\Proxy_代理模式\Proxy_代理模式.csproj" />
+    <ProjectReference Include="..\行为型\Command_命令模式\Command_命令模式.csproj" />
+    <ProjectReference Include="..\行为型\Interpreter_解释器模式\Interpreter_解释器模式.csproj" />
+    <ProjectReference Include="..\行为型\Iterator_迭代器模式\Iterator_迭代器模式.csproj" />
+    <ProjectReference Include="..\行为型\Mediator_中介者模式\Mediator_中介者模式.csproj" />
+    <ProjectReference Include="..\行为型\Memento_备忘录模式\Memento_备忘录模式.csproj" />
+    <ProjectReference Include="..\行为型\Observe_观察者模式\Observe_观察者模式.csproj" />
+    <ProjectReference Include="..\行为型\State_状态模式\State_状态模式.csproj" />
+    <ProjectReference Include="..\行为型\Strategy_策略模式\Strategy_策略模式.csproj" />
+    <ProjectReference Include="..\行为型\Template_模板方法模式\Template_模板方法模式.csproj" />
+    <ProjectReference Include="..\行为型\Visitor_观察者模式\Visitor_观察者模式.csproj" />
+  </ItemGroup>
 
 </Project>

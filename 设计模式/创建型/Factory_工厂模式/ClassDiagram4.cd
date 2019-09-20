@@ -1,2 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.Rectangle_矩形" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\Rectangle_矩形.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.Square_正方形" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\Square_正方形.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.Circle_圆形">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\Circle_圆形.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.FactoryPatternDemo">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\FactoryPatternDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.ShapeFactory_图形工厂">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\ShapeFactory_图形工厂.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Factory_工厂模式.Examples_ShapeFactory_图形工厂模式_实例1.Shape_图形接口">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples_ShapeFactory_图形工厂模式_实例1\Shape_图形接口.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
