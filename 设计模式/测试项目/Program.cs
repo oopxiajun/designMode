@@ -25,7 +25,17 @@ namespace 测试项目
             //Adapter_适配器模式.Examples_实例2.ComputerReadDemo.test1();
             //Adapter_适配器模式.Examples_实例2.ComputerReadDemo.test2();
 
-            Bridge_桥接模式.Examples_绘图_实例1.BridgePatternDemo.test();
+            //Bridge_桥接模式.Examples_绘图_实例1.BridgePatternDemo.test();
+
+            //FilterPattern_过滤器模式.Example1.CriteriaPatternDemo.test();
+
+            //Composite_组合模式.Example_1.CompositePatternDemo.test();
+
+            //Decorator_装饰模式.Example_1.DecoratorPatternDemo.test();
+            //Facade_外观模式.Example_1.FacadePatternDemo.test();
+
+            //Flyweight_享元模式.Example_1.FlyweightPatternDemo.test();
+            Proxy_代理模式.Example_2.ProxyPatternDemo.test();
             Console.Read();
         }
     }

@@ -16,6 +16,7 @@
     <ProjectReference Include="..\结构型\Composite_组合模式\Composite_组合模式.csproj" />
     <ProjectReference Include="..\结构型\Decorator_装饰模式\Decorator_装饰模式.csproj" />
     <ProjectReference Include="..\结构型\Facade_外观模式\Facade_外观模式.csproj" />
+    <ProjectReference Include="..\结构型\FilterPattern_过滤器模式\FilterPattern_过滤器模式.csproj" />
     <ProjectReference Include="..\结构型\Flyweight_享元模式\Flyweight_享元模式.csproj" />
     <ProjectReference Include="..\结构型\Proxy_代理模式\Proxy_代理模式.csproj" />
     <ProjectReference Include="..\行为型\Command_命令模式\Command_命令模式.csproj" />
