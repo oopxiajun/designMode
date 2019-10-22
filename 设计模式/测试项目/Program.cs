@@ -35,7 +35,16 @@ namespace 测试项目
             //Facade_外观模式.Example_1.FacadePatternDemo.test();
 
             //Flyweight_享元模式.Example_1.FlyweightPatternDemo.test();
-            Proxy_代理模式.Example_2.ProxyPatternDemo.test();
+            // Proxy_代理模式.Example_2.ProxyPatternDemo.test();
+
+            //Proxy_代理模式.Example_3.ProxyPatternDemo.test();
+
+            //ChainOfResponsibility_职责链模式.Example_1.ChainPatternDemo.test();
+
+            //ChainOfResponsibility_职责链模式.Example_2.ChainOfResponsibilityPattern.test();
+
+            Command_命令模式.Example_1.CommandPatternDemo.test();
+            Command_命令模式.Example_2.CommandPatternDemo.test();
             Console.Read();
         }
     }
