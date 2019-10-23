@@ -43,8 +43,15 @@ namespace 测试项目
 
             //ChainOfResponsibility_职责链模式.Example_2.ChainOfResponsibilityPattern.test();
 
-            Command_命令模式.Example_1.CommandPatternDemo.test();
-            Command_命令模式.Example_2.CommandPatternDemo.test();
+            //Command_命令模式.Example_1.CommandPatternDemo.test();
+            //Command_命令模式.Example_2.CommandPatternDemo.test();
+
+            //Interpreter_解释器模式.Example_1.InterpreterPatternDemo.test();
+            //Interpreter_解释器模式.Example_2.InterpreterPatternDemo.test();
+
+            //Iterator_迭代器模式.Examp_e_1.IteratorPatternDemo.test();
+            // Mediator_中介者模式.Example_1.MediatorTest.test();
+            Memento_备忘录模式.Example_1.MementoTest.Main(args);
             Console.Read();
         }
     }
