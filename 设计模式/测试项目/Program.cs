@@ -51,7 +51,16 @@ namespace 测试项目
 
             //Iterator_迭代器模式.Examp_e_1.IteratorPatternDemo.test();
             // Mediator_中介者模式.Example_1.MediatorTest.test();
-            Memento_备忘录模式.Example_1.MementoTest.Main(args);
+            //Memento_备忘录模式.Example_1.MementoTest.Main(args);
+
+            //Observe_观察者模式.Example_1.ObserverPatternDemo.main();
+            //Observe_观察者模式.Example_2.ObserverPatternDemo.test();
+
+            //State_状态模式.Example_2.StatePatternDemo.test();
+            //Strategy_策略模式.Example_1.StrategyPatternDemo.test();
+
+            Visitor_观察者模式.Example_1.VisitorPatternDemo.test();
+
             Console.Read();
         }
     }
