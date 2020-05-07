@@ -8,7 +8,6 @@ namespace Visitor_观察者模式.Example_1
     {
         public static void test( )
         {
-
             ComputerPart computer = new Computer();
             computer.accept(new ComputerPartDisplayVisitor());
         }
